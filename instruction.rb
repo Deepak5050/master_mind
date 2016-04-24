@@ -25,9 +25,6 @@ class Instruction
 		puts "If you want to win, follow the hints carefully!"
 		puts ""
 		puts "Hints:"
-		puts "V => Value is matching with the Win Combo"
-		puts "VP => Both value and position are mathing with Win Combo"
-		puts "N => None, Both value and position are not matching"
 		puts ''
 	end
 
